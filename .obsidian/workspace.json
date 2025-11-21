@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ApuntesDeTecnologias/HTML.md",
+                "file": "ApuntesDeTecnologias/DesarrolloWeb/7_pasos_para_construir_sitio_web.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML"
+              "title": "7_pasos_para_construir_sitio_web"
             }
           }
         ]
@@ -185,13 +185,13 @@
   },
   "active": "6daa2ab2aff81eba",
   "lastOpenFiles": [
+    "ApuntesDeTecnologias/HTML.md",
     "ApuntesDeTecnologias/img/1.jpg",
     "ApuntesDeTecnologias/img",
     "ApuntesDeTecnologias/CSS.md",
     "ApuntesDeTecnologias/SQL.md",
     "ApuntesDeTecnologias/JavaScript.md",
     "ApuntesDeTecnologias/Python.md",
-    "ApuntesDeTecnologias/HTML.md",
     "ApuntesDeTecnologias/PHP.md",
     "Proyectos/Sistema para Colegio.md",
     "TecnAnalistaDeSistemas/1.1 Analisis y Diseño.md",
