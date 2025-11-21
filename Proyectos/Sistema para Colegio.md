@@ -2,15 +2,15 @@
 
 índice:
 
-    -  [Estudio Previo](#estudio-previo)
-    	- [Dia Laboral](#dia-laboral)
-    		- [7:30 Ingreso de docentes y armado del día](#730-ingreso-de-docentes-y-armado-del-día)
-    		- [08:00 Toma de asistencias](#0800-toma-de-asistencias)
-    		- [10:00 Carga de asistencias](#10000-carga-de-asistencias)
-    		- [11:00 Registro de notas](#1100-registro-de-notas)
-    		- [12:00 Certificados, pedidos y reportes](#1200-certificados-pedidos-y-reportes)
-    		- [14:00 Archivo físico](#1400-archivo-físico)
-    		- [15:00 Comunicación Interna](#1500comunicación-interna)
+  - [Estudio Previo](#estudio-previo)
+    - [Dia Laboral](#dia-laboral)
+      - [7:30 Ingreso de docentes y armado del día](#730-ingreso-de-docentes-y-armado-del-día)
+      - [08:00 Toma de asistencias](#0800-toma-de-asistencias)
+      - [10:00 Carga de asistencias](#10000-carga-de-asistencias)
+      - [11:00 Registro de notas](#1100-registro-de-notas)
+      - [12:00 Certificados, pedidos y reportes](#1200-certificados-pedidos-y-reportes)
+      - [14:00 Archivo físico](#1400-archivo-físico)
+      - [15:00 Comunicación Interna](#1500comunicación-interna)
 
 ## Estudio Previo
 
