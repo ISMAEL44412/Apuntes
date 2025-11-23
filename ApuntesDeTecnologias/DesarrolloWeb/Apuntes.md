@@ -1,4 +1,4 @@
-- [Luego Del deployment](#una-vez-hecho-el-deployment)
+- [Luego Del Deployment](#una-vez-hecho-el-deployment)
 
 ## Una vez hecho el Deployment
 
@@ -17,7 +17,7 @@ PHP, Node.js, Python, C#, Ruby, Java son lenguajes que pueden soportar miles de 
 
 ### Consideraciones si tu sitio tiene miles o millones de visitas
 
-- Hospedar la base de datos en un servidor aparte (tendras 2 servidores, uno con el código y otro con la BD)
-- Cachear el contenido, esto quiere decir que en lugar de consultar la base de datos en cada vista, creamos una version HTML y cada que hay cambios se regenera este HTML.
-- Hospedar impágenes y archivos similares en otro servidor como puede ser un CDN
+- Hospedar la base de datos en un servidor aparte (tendrás 2 servidores, uno con el código y otro con la BD)
+- Cachear el contenido, esto quiere decir que en lugar de consultar la base de datos en cada vista, creamos una versión HTML y cada que hay cambios se regenera este HTML.
+- Hospedar imágenes y archivos similares en otro servidor como puede ser un CDN
 - Hospedar el sitio web en diferentes servidores.

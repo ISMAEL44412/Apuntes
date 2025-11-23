@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "00d6531f4923e62a",
+        "id": "8eeac34ac8a5c97d",
         "type": "tabs",
         "children": [
           {
-            "id": "6daa2ab2aff81eba",
+            "id": "eb6bcd967a8b3efb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,17 +184,16 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "6daa2ab2aff81eba",
+  "active": "904912e64ff9e8d2",
   "lastOpenFiles": [
     "ApuntesDeTecnologias/DesarrolloWeb/7_pasos_para_construir_sitio_web.md",
     "ApuntesDeTecnologias/HTML.md",
+    "ApuntesDeTecnologias/CSS.md",
+    "Bienvenido.md",
     "ApuntesDeTecnologias/img/1.jpg",
     "ApuntesDeTecnologias/img",
-    "ApuntesDeTecnologias/CSS.md",
     "ApuntesDeTecnologias/SQL.md",
-    "ApuntesDeTecnologias/JavaScript.md",
     "ApuntesDeTecnologias/Python.md",
-    "ApuntesDeTecnologias/PHP.md",
     "Proyectos/Sistema para Colegio.md",
     "TecnAnalistaDeSistemas/1.1 Analisis y Diseño.md",
     "ApuntesDeTecnologias",
@@ -207,7 +206,6 @@
     "Tecnicatura/Sin título 1.md",
     "Tecnicatura/Sin título 2.md",
     "TecnAnalistaDeSistemas",
-    "Bienvenido.md",
     "Proyectos"
   ]
 }
