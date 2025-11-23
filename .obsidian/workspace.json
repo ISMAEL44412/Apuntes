@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ApuntesDeTecnologias/DesarrolloWeb/7_pasos_para_construir_sitio_web.md",
+                "file": "TecnAnalistaDeSistemas/1.3 Practica Profesional 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7_pasos_para_construir_sitio_web"
+              "title": "1.3 Practica Profesional 1"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "right": {
     "id": "1df226494a13a499",
@@ -185,6 +186,7 @@
   },
   "active": "6daa2ab2aff81eba",
   "lastOpenFiles": [
+    "ApuntesDeTecnologias/DesarrolloWeb/7_pasos_para_construir_sitio_web.md",
     "ApuntesDeTecnologias/HTML.md",
     "ApuntesDeTecnologias/img/1.jpg",
     "ApuntesDeTecnologias/img",
