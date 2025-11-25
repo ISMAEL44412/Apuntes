@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyectos/Sistema para Colegio.md",
+                "file": "ApuntesDeTecnologias/CSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sistema para Colegio"
+              "title": "CSS"
+            }
+          },
+          {
+            "id": "42d39c641e4e30eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ApuntesDeTecnologias/Docker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,20 +198,21 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "904912e64ff9e8d2",
+  "active": "42d39c641e4e30eb",
   "lastOpenFiles": [
-    "ApuntesDeTecnologias/DesarrolloWeb/7_pasos_para_construir_sitio_web.md",
-    "ApuntesDeTecnologias/PHP.md",
-    "ApuntesDeTecnologias/DesarrolloWeb/Apuntes.md",
-    "ApuntesDeTecnologias/JavaScript.md",
-    "ApuntesDeTecnologias/HTML.md",
     "ApuntesDeTecnologias/CSS.md",
+    "ApuntesDeTecnologias/Docker.md",
+    "ApuntesDeTecnologias/DesarrolloWeb/Apuntes.md",
+    "ApuntesDeTecnologias/DesarrolloWeb/7_pasos_para_construir_sitio_web.md",
+    "ApuntesDeTecnologias/HTML.md",
+    "Proyectos/Sistema para Colegio.md",
+    "ApuntesDeTecnologias/PHP.md",
+    "ApuntesDeTecnologias/JavaScript.md",
     "Bienvenido.md",
     "ApuntesDeTecnologias/img/1.jpg",
     "ApuntesDeTecnologias/img",
     "ApuntesDeTecnologias/SQL.md",
     "ApuntesDeTecnologias/Python.md",
-    "Proyectos/Sistema para Colegio.md",
     "TecnAnalistaDeSistemas/1.1 Analisis y Diseño.md",
     "ApuntesDeTecnologias",
     "TecnAnalistaDeSistemas/2.2 Practica Profesional 2.md",
