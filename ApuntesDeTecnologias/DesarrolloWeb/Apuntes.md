@@ -21,3 +21,10 @@ PHP, Node.js, Python, C#, Ruby, Java son lenguajes que pueden soportar miles de 
 - Cachear el contenido, esto quiere decir que en lugar de consultar la base de datos en cada vista, creamos una versión HTML y cada que hay cambios se regenera este HTML.
 - Hospedar imágenes y archivos similares en otro servidor como puede ser un CDN
 - Hospedar el sitio web en diferentes servidores.
+
+## Registro de usuarios consideraciones de seguridad
+La maoria de sitios hoy en día te permiten crear una cuenta, pero debemos tener en cuenta ciertas cosas al momento de que vallan a crear las cuentas:
+### ¿Qué debemos considerar cuando el usuario va a crear su cuenta?
+- No puedes dejar que los usuarios creen todas las cuentas que quieran.
+- Se puede validar que su email exista mediante algun codigo o link que deba abrir.
+- Solicitar un número telefónico y enviar un SMS con un código.
